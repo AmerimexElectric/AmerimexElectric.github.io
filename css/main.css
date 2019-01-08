@@ -19,7 +19,7 @@ body, html {
 }
 .hero-text {
    font-size: 80px;
-   border-bottom: 3px solid black;
+   border-bottom: 3px solid #D8E1FF;
 }
 .all-cap {
   text-transform: uppercase;
