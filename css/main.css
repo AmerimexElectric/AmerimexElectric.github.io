@@ -14,8 +14,16 @@ body, html {
     background-image: url("/images/hero.jpg");
     min-height: 75%;
 }
-.menu {
+#about {
     display: none;
+    background-color: #5EB1BF;
+}
+#menu {
+    display: none;
+    background-color: #5EB1BF;
+}
+#where {
+    background-color: #5EB1BF;
 }
 .hero-text {
    font-size: 80px;
@@ -27,6 +35,9 @@ body, html {
 }
 .menu-card {
   padding: 0px 20px;
+}
+footer {
+  background-color: #5EB1BF;
 }
 .copyright {
   margin: 17px 0;
