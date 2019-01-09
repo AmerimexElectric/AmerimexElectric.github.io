@@ -37,6 +37,7 @@ body, html {
 }
 .activeMenuTab {
   color: red;
+  text-decoration: underline;
 }
 form {
   background-color: #E0DCDA;
