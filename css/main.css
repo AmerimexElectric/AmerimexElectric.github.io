@@ -27,6 +27,9 @@ body, html {
 .menu-card {
   padding: 0px 20px;
 }
+form {
+  background-color: #E0DCDA;
+}
 .copyright {
   padding: 17px 0;
 }
