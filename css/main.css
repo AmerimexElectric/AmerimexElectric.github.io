@@ -35,6 +35,9 @@ body, html {
 .menu-card-h5 {
   padding-top: 25px;
 }
+.activeMenuTab {
+  color: red;
+}
 form {
   background-color: #E0DCDA;
 }
