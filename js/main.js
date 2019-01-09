@@ -9,6 +9,6 @@ function openMenu(evt, menuName) {
      tablinks[i].className = tablinks[i].className.replace(" w3-dark-grey", "");
   }
   document.getElementById(menuName).style.display = "block";
-  evt.currentTarget.firstElementChild.className += "activeMenuTab";
+  // evt.currentTarget.firstElementChild.className += "activeMenuTab";
 }
 document.getElementById("myLink").click();
