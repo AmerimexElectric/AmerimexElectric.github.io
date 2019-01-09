@@ -28,6 +28,9 @@ body, html {
   padding: 0px 20px;
   background-color: #E0DCDA;
 }
+.menu-card:first-child {
+  padding-top: 25px;
+}
 form {
   background-color: #E0DCDA;
 }
